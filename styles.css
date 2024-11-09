@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+  .audio-section {
+            margin: 20px 0;
+        }
+        .audio-section h2 {
+            font-size: 24px;
+        }
+        .audio-controls {
+            margin: 10px 0;
+        }
